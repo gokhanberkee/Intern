@@ -1,0 +1,11 @@
+﻿{"İsim":"Gökhan Berke","Soyisim":"Evlek","Yaş":"23","TCKNO":"27928406356","Cinsiyet":"Erkek","E-mail":"gokhanberkee@gmail.com"}
+{"İsim":"Ömer Faruk","Soyisim":"Aktaş","Yaş":"23","TCKNO":"16548931322","Cinsiyet":"Erkek","E-mail":"omeraktas@ersantransport.com"}
+{"İsim":"Dilek Esra","Soyisim":"Sarı","Yaş":"24","TCKNO":"98735102015","Cinsiyet":"Kadın","E-mail":"dilekesras@gmail.com"}
+{"İsim":"Faik Gökhan","Soyisim":"Gök","Yaş":"24","TCKNO":"65543218043","Cinsiyet":"Erkek","E-mail":"faikgokhan@gmail.com"}
+{"İsim":"Furkan","Soyisim":"Gedik","Yaş":"25","TCKNO":"45351631313","Cinsiyet":"Erkek","E-mail":"furkangedik@gmail.com"}
+{"İsim":"Burak","Soyisim":"Cacına","Yaş":"23","TCKNO":"45648793213","Cinsiyet":"Erkek","E-mail":"burakcacina@gmail.com"}
+{"İsim":"Berrak ","Soyisim":"Karaduman","Yaş":"23","TCKNO":"78321654894","Cinsiyet":"Kadın","E-mail":"berrakaraduman@hotmail.com"}
+{"İsim":"Eyyüp","Soyisim":"Kılıç","Yaş":"24","TCKNO":"32165478202","Cinsiyet":"Erkek","E-mail":"eypkilic@hotmail.com"}
+{"İsim":"Ceyhun Kenan","Soyisim":"Hayırlıoğlu","Yaş":"23","TCKNO":"45689473123","Cinsiyet":"Erkek","E-mail":"ckenan@hotmail.com"}
+{"İsim":"Onurcan","Soyisim":"Kılıç","Yaş":"23","TCKNO":"46598732135","Cinsiyet":"Erkek","E-mail":"bronur_@gmail.com"}
+{"İsim":"Gülcan","Soyisim":"İşleyen","Yaş":"24","TCKNO":"45643156531","Cinsiyet":"Kadın","E-mail":"glcn.isleyen@gmail.com"}

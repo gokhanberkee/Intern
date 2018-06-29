@@ -1,0 +1,13 @@
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\obj\Debug\StajProje.csprojResolveAssemblyReference.cache
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\obj\Debug\StajProje.Form1.resources
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\obj\Debug\StajProje.csproj.GenerateResource.cache
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\obj\Debug\StajProje.csproj.CoreCompileInputs.cache
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\bin\Debug\StajProje.exe.config
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\bin\Debug\StajProje.exe
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\bin\Debug\StajProje.pdb
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\obj\Debug\StajProje.csproj.CopyComplete
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\obj\Debug\StajProje.exe
+C:\Users\GökhanBerke\Desktop\Staj\Visual\StajProje\StajProje\obj\Debug\StajProje.pdb
